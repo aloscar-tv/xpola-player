@@ -1,2 +1,3 @@
 
 servers=["https://alraqiiptv.ddns.net/playlist.m3u|httpcanary=false|rot=false|deviceroot=false|cast=false"]
+https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
