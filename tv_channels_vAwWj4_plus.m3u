@@ -5,3 +5,6 @@ https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
 #EXTINF:-1, mstv
 #EXTVLCOPT:http-player-type=m3u
 https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
+#EXTINF:-1, ms tv
+#EXTVLCOPT:http-player-type=m3u
+https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
