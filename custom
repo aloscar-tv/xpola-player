@@ -1,2 +1,7 @@
-https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
-https://alraqiiptv.ddns.net/playlist.m3u?pin=1988
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://a502.variety-buy.store/api/channel/4
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://a502.variety-buy.store/api/channel/24
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://a502.variety-buy.store/api/channel/44
